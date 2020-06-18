@@ -17,7 +17,7 @@ import java.util.Objects;
  * </pre>
  * All values are defaulted except color.
  * 
- * @author rob.hewitt
+ * @author dr.rob.hewitt
  *
  */
 public class Car {
